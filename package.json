@@ -1,0 +1,15 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "Discord bot với lệnh /tinnhan để admin gửi tin nhắn tới nhiều kênh",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
